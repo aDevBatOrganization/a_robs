@@ -7,6 +7,8 @@ Ce script a été présenté sous forme de tutoriel sur la chaîne YouTube de a_
 
 Ce tutoriel vous permettra dans un premier temps d'apprendre à créer un menu en utilisant NativeUI.
 
+Vous trouverais les ressource pour NativeUI sur ce github "https://github.com/aDevBatOrganization/nativeUI"
+
 # SQL
 
 Ce tutoriel abordera également le SQL.
