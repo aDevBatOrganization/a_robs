@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Config                     = {}
 
 Config.markerX             = {
@@ -36,3 +37,10 @@ Config.markerY             = {
 
 Config.markerZVespucciRobs = 11.75
 Config.markerZWinewoodShop = 102.87
+=======
+Config = {}
+
+Config.markerX = -1223.91
+Config.markerY = -907.84
+Config.markerZ = 12.33
+>>>>>>> 739d200e4ddaaa3b6da91644dcfe316361a135b2
